@@ -30,6 +30,12 @@
         "Themes"
     ],
     "contributes": {
-        "themes": []
+        "themes": [
+            {
+                "label": "Monochrome Dark",
+                "path": "themes/monochrome-dark.json",
+                "uiTheme": "vs-dark"
+            }
+        ]
     }
 }
